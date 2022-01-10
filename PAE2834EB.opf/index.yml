@@ -1,0 +1,108 @@
+id: d4f5d3e528464f71a3ac4a12395e9619
+annotation_type: index
+revision: '00001'
+annotations:
+  9eb6175533d74ddab2246a37e2717ef6:
+    work_id: JSMP1
+    parts:
+      33078b2c4fd8419fb65536677b83a445:
+        work_id: JSMP1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 1218126
+    span:
+    - vol: 1
+      start: 0
+      end: 1218126
+  627f426b6d6f4f579e4aa24bc1ba8fc7:
+    work_id: JSMP2
+    parts:
+      06dba8337e7e4cb387e570cb05663500:
+        work_id: JSMP2-2
+        span:
+        - vol: 2
+          start: 0
+          end: 26965
+    span:
+    - vol: 2
+      start: 0
+      end: 26965
+  8206ae903ec9402a891362b7fcf4a550:
+    work_id: JSMP4
+    parts:
+      75e2f17522b146059b2d953187c44a82:
+        work_id: JSMP4-3
+        span:
+        - vol: 3
+          start: 0
+          end: 52627
+    span:
+    - vol: 3
+      start: 0
+      end: 52627
+  0eefda1d879941c994003f77149a61ae:
+    work_id: JSMP7
+    parts:
+      c21b334009b24c65b04b20dc0343e76b:
+        work_id: JSMP7-4
+        span:
+        - vol: 4
+          start: 0
+          end: 885543
+    span:
+    - vol: 4
+      start: 0
+      end: 885543
+  2504b5bf5c33498bad7f0b6b833b6f0b:
+    work_id: JSMP8
+    parts:
+      3c3e5873c5204460b58698c01b2ad730:
+        work_id: JSMP8-5
+        span:
+        - vol: 5
+          start: 0
+          end: 630370
+    span:
+    - vol: 5
+      start: 0
+      end: 630370
+  b4a8a362d19a4a87b2b40d7581033e2c:
+    work_id: JSMP9
+    parts:
+      5404fbe7a193492f9418b74a21492da2:
+        work_id: JSMP9-6
+        span:
+        - vol: 6
+          start: 0
+          end: 1142592
+    span:
+    - vol: 6
+      start: 0
+      end: 1142592
+  94480e905363415c9fdd607f85ced929:
+    work_id: JSMP10
+    parts:
+      329a3d79bb4348659c617262db6137b3:
+        work_id: JSMP10-7
+        span:
+        - vol: 7
+          start: 0
+          end: 5854
+    span:
+    - vol: 7
+      start: 0
+      end: 5854
+  e262c1909c6c4b49b6f2c976e4c07221:
+    work_id: JSMP32
+    parts:
+      6ac70b43bf8a486bb665578dfa69b979:
+        work_id: JSMP32-8
+        span:
+        - vol: 8
+          start: 0
+          end: 689079
+    span:
+    - vol: 8
+      start: 0
+      end: 689079
